@@ -4,8 +4,8 @@ Cofounder of [EyeScary Development](https://eyescary.is-a/dev) and manager of th
 ## My specialties
 * HTML
 * CSS
-* JavaScript
-* Python (sorta forgetting all of this since I primarily do stuff in JavaScript now)
+* JavaScript (sorta forgetting all of this since I've been doing a lot of python recently)
+* Python 
 * Java (kinda)
 
 ![](https://raw.githubusercontent.com/Pittab/github-stats/master/generated/overview.svg#gh-dark-mode-only)
