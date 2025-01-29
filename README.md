@@ -7,6 +7,7 @@ Cofounder of [EyeScary Development](https://eyescary.is-a/dev) and manager of th
 * HTML
 * CSS
 * JavaScript (sorta forgetting all of this since I've been doing a lot of python recently)
+* Astro (kinda)
 * Python
 * Shell scripts (kinda)
 * Java (kinda)
