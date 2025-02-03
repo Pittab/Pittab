@@ -10,4 +10,4 @@ Cofounder of [EyeScary Development](https://eyescary.is-a/dev) and manager of th
 * Shell scripts (kinda)
 * Java (kinda)
 
-[![Pittab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pittab&theme=catppuccin_mocha&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Pittab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pittab&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
